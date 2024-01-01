@@ -1,0 +1,22 @@
+{
+  "name": "brookmount",
+  "version": "0.0.57",
+  "description": "brookmount npm package.",
+  "main": "brookmount.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brookmount/npm.git"
+  },
+  "keywords": [
+    "brookmount"
+  ],
+  "author": "reyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brookmount/npm/issues"
+  },
+  "homepage": "https://github.com/brookmount/npm#readme"
+}
